@@ -1,0 +1,29 @@
+MySQL
+https://www.mysql.com/jp/
+開発者：Michael Widenius
+データベース内のデータの保管、更新、削除、検索の操作をするための言語
+データベース管理システム
+
+Django
+https://www.djangoproject.com/
+開発者：Adrian Holovaty、Simon Willison
+Pythonで実装されたWebアプリケーションフレームワーク。
+
+Git
+https://git-scm.com/
+開発者：リーナストーバルズ
+プロジェクト管理システム
+
+Apache HTTP Server, Apacheソフトウェア財団 
+https://httpd.apache.org/ , WebServer
+
+MariaDB, MariaDB Corporation Ab, 
+https://mariadb.com/ , RDBMS
+
+MySQL Cluster
+https://dev.mysql.com/downloads/cluster/
+負荷分散型・高可用性という特徴を持つリアルタイムデータベース
+
+PostgreSQ
+https://www.postgresql.jp/
+C言語で実装されたオープンソースのオブジェクトリレーショナルデータベース管理システム（ORDBMS）
