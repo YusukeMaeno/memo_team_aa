@@ -27,3 +27,5 @@ https://dev.mysql.com/downloads/cluster/
 PostgreSQ
 https://www.postgresql.jp/
 C言語で実装されたオープンソースのオブジェクトリレーショナルデータベース管理システム（ORDBMS）
+
+競合　
